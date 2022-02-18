@@ -1,7 +1,9 @@
 # JVetConsole
 ### A Data Management System for Vets in Java.
+### Author: [Nikos-Nikitas](https://github.com/nikosnikitas)
 
 ### Features
-- Create Pet Data and save them.
+- Create Data and save it.
 - Read/Write to CSV.
+- Update the CSV.
 - Clear the saved file and rewrite.
